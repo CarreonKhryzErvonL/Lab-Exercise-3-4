@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import '../api/mock_fooderlich_service.dart';
 import '../components/components.dart';
 import '../models/models.dart';
+import 'grocery_item_screen.dart';
 
 class ExploreScreen extends StatelessWidget {
   final mockService = MockFooderlichService();
